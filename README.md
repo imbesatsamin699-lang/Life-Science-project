@@ -1,12 +1,9 @@
 # Life-Science-project
 Building intelligent AI systems for life sciences, biomedical research, healthcare automation, and scientific discovery.
 FULL PROJECT REBUILD — HELIXAI
-You are an expert full-stack AI engineer.
-Rebuild my project HelixAI from scratch.
-Project
+
 HelixAI is an AI-powered biomedical research copilot that helps researchers search literature, understand papers, generate research ideas, summarize biomedical topics, and interact with scientific knowledge.
 The application should look premium, modern and professional, similar to products from OpenAI, Anthropic or Perplexity.
-Use a dark blue/purple scientific theme.
 Tech Stack
 Next.js 15
 React
